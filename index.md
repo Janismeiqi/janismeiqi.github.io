@@ -4,7 +4,10 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+# Header 1
+[Project One](./another-page.html).
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
 
 There should be whitespace between paragraphs.
 
