@@ -5,7 +5,7 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 # Header 1
-[Project One](./another-page.html).
+
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 
